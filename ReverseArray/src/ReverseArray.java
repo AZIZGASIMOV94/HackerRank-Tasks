@@ -1,7 +1,7 @@
 /*
 * HackerRank task no:1
 * */
-public class Main {
+public class ReverseArray {
     public static void main(String[] args) {
         int arr[] = {1,2,3};
         int res[] = reverse(arr);
