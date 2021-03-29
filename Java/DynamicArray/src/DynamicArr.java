@@ -13,7 +13,7 @@ public class DynamicArr {
         int Q = scan.nextInt();
         int lastAns = 0;
 
-        ArrayList<ArrayList<Integer>> listOfLists = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> listOfLists = new ArrayList<ArrayList<Integer>>();
         for(int i=0; i < N; i++){
             listOfLists.add(new ArrayList<Integer>());
         }
