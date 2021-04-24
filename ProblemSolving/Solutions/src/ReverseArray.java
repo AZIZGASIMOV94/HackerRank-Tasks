@@ -1,5 +1,3 @@
-package Solutions.src;
-
 public class ReverseArray {
     public static int[] reverse(int[] array){
 

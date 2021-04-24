@@ -1,5 +1,4 @@
-package Solutions.src;
- //not finished!
+//not finished!
 public class DiagonalSum {
     public static void diagonalSum() {
         int arr[][] = {

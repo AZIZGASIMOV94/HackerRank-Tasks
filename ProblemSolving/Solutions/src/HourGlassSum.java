@@ -1,5 +1,3 @@
-package Solutions.src;
-
 public class HourGlassSum {
 
     public static int sumOfHourGlass(int[][] array) {

@@ -1,11 +1,9 @@
-package Solutions.src;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class DynamicArray {
-    public static List<List<Integer>> dynamicArray(int N, List<List<Integer>> queries) {
+    public static ArrayList<ArrayList<Integer>> dynamicArray(int N, List<List<Integer>> queries) {
         Scanner scan = new Scanner(System.in);
         int Nn = scan.nextInt();
         int Q = scan.nextInt();

@@ -1,5 +1,3 @@
-package Solutions.src;
-
 public class TraverseLinkedList {
      /*
         print the elements of the linked list

@@ -1,5 +1,3 @@
-package Solutions.src;
-
 public class SparseArray {
     
     static int[] matchingStrings(String[] strings, String[] queries) {

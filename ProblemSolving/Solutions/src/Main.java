@@ -1,10 +1,8 @@
-package Solutions.src;
-
 public class Main {
     static int R = 5;
     static int C = 5;
     public static void main(String[] args) throws Exception {
-        //#region Hour Glass Demonstration 
+       /* //#region Hour Glass Demonstration
             int arr[][] = {
                 {1,1,1,0,0,0},
                 {0,1,0,0,0,0},
@@ -55,6 +53,17 @@ public class Main {
             for(int item : result){
                 System.out.println(item);
             }
+        //#endregion*/
+        //#region ArrayManipulation
+            /*int queries[][] = {
+                    {1,2,100},
+                    {2,5,100},
+                    {3,4,100}
+            };
+            int n = 5;//size of array [0,0,0,0,0]
+
+            System.out.println(ArrayManipulation.arrayManipulation(n, queries));*/
         //#endregion
+        System.out.println("hello");
     }
 }
