@@ -18,7 +18,7 @@ public class ArrayManipulation {
         }
 
         Long maxVal = Long.MIN_VALUE;
-        
+
         for(int i= 0; i< arr.length; i++){
             if(arr[i] > maxVal){
                 maxVal = arr[i];
